@@ -1,0 +1,3 @@
+# Refer gitignore(5) manual page for more info regarding edit of this file
+# Don't track HTTPie session files, which may contain confidential information
+/sessions/
